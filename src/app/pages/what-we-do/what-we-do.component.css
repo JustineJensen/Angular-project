@@ -1,0 +1,53 @@
+.what-we-do-text {
+    width: 100%;
+    height: 100%;
+    background-color: #419197;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+/* CSS */
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* What We Do Section Styles */
+.what-we-do-text {
+
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.what-we-do-text h2 {
+    color: yellowgreen;
+}
+
+.what-we-do-text ol {
+    font-weight: bold;
+}
+
+.what-we-do-text p {
+    margin: 10px 0;
+}
+
+.what-we-do-text span {
+    color: yellowgreen;
+    font-weight: bold;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

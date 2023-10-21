@@ -1,0 +1,17 @@
+.home-page-text{
+    padding-top: 300px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: greenyellow;
+}
+.quote{
+    padding-top: 100px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+button{
+    color: greenyellow;
+    background-color:#12486B ;
+    border-radius: 8px solid white;
+}
